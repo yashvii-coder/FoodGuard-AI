@@ -1,0 +1,5 @@
+date,time,food,source,portion,grams,calories,protein,carbohydrates,fat,fiber,confidence,entry_type
+2026-09-25,01:48,Dhokla,Restaurant,4 pieces (100 g),100.0,160.0,6.0,25.0,4.0,2.0,100.0,AI Scan
+2026-09-30,14:04,Burger,Home,2 burger (300 g),300.0,708.0,34.0,60.0,36.0,4.0,100.0,AI Scan
+2026-09-30,14:05,Burger,Restaurant,2 burger (300 g),300.0,708.0,34.0,60.0,36.0,4.0,100.0,AI Scan
+2026-10-05,21:53:15,pizza,Home,1 medium pizza slice(s),110.0,286.0,13.2,32.3,11.7,2.2,99.58892464637756,Food Scan

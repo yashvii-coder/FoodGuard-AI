@@ -1,0 +1,32 @@
+FOODGUARD AI - MODEL EVALUATION
+================================
+
+Test Accuracy: 85.12%
+Test Loss: 0.5178
+
+               precision    recall  f1-score   support
+
+       burger     0.9808    0.9808    0.9808        52
+  butter_naan     0.7885    0.7736    0.7810        53
+         chai     0.9138    0.9298    0.9217        57
+      chapati     0.7467    0.8358    0.7887        67
+chole_bhature     0.8727    0.8889    0.8807        54
+  dal_makhani     0.7885    0.7455    0.7664        55
+       dhokla     0.8868    0.8868    0.8868        53
+   fried_rice     0.8200    0.9318    0.8723        44
+         idli     0.8810    0.8043    0.8409        46
+       jalebi     1.0000    0.8158    0.8986        38
+ kaathi_rolls     0.7955    0.7955    0.7955        44
+ kadai_paneer     0.8167    0.9074    0.8596        54
+        kulfi     0.9032    0.7000    0.7887        40
+  masala_dosa     0.8431    0.9149    0.8776        47
+        momos     0.8846    0.9388    0.9109        49
+   paani_puri     0.8421    0.8889    0.8649        18
+       pakode     0.9302    0.8511    0.8889        47
+    pav_bhaji     0.7179    0.6667    0.6914        42
+        pizza     0.8974    0.9459    0.9211        37
+       samosa     0.8140    0.7955    0.8046        44
+
+     accuracy                         0.8512       941
+    macro avg     0.8562    0.8499    0.8510       941
+ weighted avg     0.8536    0.8512    0.8506       941

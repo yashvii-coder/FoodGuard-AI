@@ -1,0 +1,30 @@
+{
+    "yashvibarot381@gmail.com": {
+        "name": "yash",
+        "age": 26,
+        "sex": "Male",
+        "height_cm": 178.0,
+        "weight_kg": 80.0,
+        "diet": "Mixed",
+        "activity_level": "Moderately active",
+        "allergies": "capsicum",
+        "intolerances": "capsicum",
+        "disliked_foods": "none",
+        "health_conditions": "none",
+        "exercise_limitations": "none"
+    },
+    "test@foodguard.ai": {
+        "name": "Yash",
+        "age": 26,
+        "sex": "Male",
+        "height_cm": 178.0,
+        "weight_kg": 80.0,
+        "diet": "Mixed",
+        "activity_level": "Moderately active",
+        "allergies": "capsicum",
+        "intolerances": "capsicum",
+        "disliked_foods": "none",
+        "health_conditions": "none",
+        "exercise_limitations": "none"
+    }
+}
